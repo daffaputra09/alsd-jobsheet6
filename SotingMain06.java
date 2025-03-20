@@ -23,5 +23,6 @@ public class SotingMain06 {
         dataUrut3.tampil();
         dataUrut3.insertionSort();
         System.out.println("Data sudah diurutkan dengan INSERTION SORT (ASC)");
+        dataUrut3.tampil();
     }
 }
